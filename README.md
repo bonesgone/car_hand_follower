@@ -1,2 +1,2 @@
 # car_hand_follower
-Final report for V2X(Vehicle-to-Everything) class.
+Final project for V2X(Vehicle-to-Everything) class.
